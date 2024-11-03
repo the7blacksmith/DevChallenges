@@ -24,6 +24,6 @@ def fibonacci_sequence():
         time.sleep(0.5)
     return x
 
-print(fibonacci_sequence())
+
     
 
