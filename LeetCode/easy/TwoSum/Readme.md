@@ -1,8 +1,5 @@
 
-
 # [LeetCode: Problems](https://leetcode.com/problemset/)
-
-# TwoSum 
 
 ![Images](/Images/TwoSum.png)
 

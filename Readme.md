@@ -7,7 +7,7 @@
 - ### [Mouredev {Retos de programación}](https://retosdeprogramacion.com/ejercicios/)
 - ### [LeetCode problems](https://leetcode.com/problemset/)
 
-Además de mi solución personal con la que pretendo aprender y mejorar como futuro programador, comentaré los ejercicios y propondré alternativas más eficientes ya sean a través de internet o con la ayuda de inteligencia artificial o ChatGPT.
+Además de mi solución personal con la que pretendo aprender y mejorar como futuro programador, comentaré los ejercicios y propondré alternativas más eficientes ya sea a través de internet o con la ayuda de inteligencia artificial o ChatGPT.
 
 # Este es un repositorio abierto.
 
